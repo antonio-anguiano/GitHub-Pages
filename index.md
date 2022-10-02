@@ -2,14 +2,14 @@
 > *"Do not use semicolons. They are transvestite hermaphrodites, representing nothing. All they do is show you've been to college."* - Kurt Vonnegut [source](https://litreactor.com/columns/foonotes-kurt-vonnegut-and-the-semicolon)
 > 
 
-Clearly Vonnegut did not code in C! But I do. Hello, my name is Antonio, and for the most part I'm just a normal guy. Aside from programming, I like to study history, english literature, and music! As a programmer my interests currently lie in web development. But I'm still learning!
+Clearly Vonnegut did not code in C! But I do. Hello, my name is Antonio, and for the most part I'm just a normal guy. Aside from programming, I like to study history, english literature, and music! As a programmer my interests currently lie in web development. But I'm still learning! why not take a look at my [Todo List](https://github.com/antonio-anguiano/GitHub-Pages/edit/VS-code/index.md#morning-todo-list)?
 ```
 //for each loop example
 for(int x : nums) {
     printf(x)
 }
 ```
-## programming anguages I at least sort of know
+## programming languages I at least sort of know
 - C
 - C++
 - python
